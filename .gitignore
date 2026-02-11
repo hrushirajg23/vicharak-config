@@ -1,7 +1,8 @@
-/.vscode*
 /overlay
 /output
 /out
 /VERSION
 vicharak-config[-_]*
 
+config.bat
+node_modules
